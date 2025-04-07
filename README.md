@@ -37,12 +37,12 @@ You can delete your data at any time by:
 - Resetting app data in Android settings
 
 ## 7. Contact
-For privacy-related questions, contact us at: [Your Email Address]
+For privacy-related questions, contact us at: support.suspend192@simplelogin.com
 
 ## 8. Changes
 This privacy policy may be updated occasionally. The current version can always be found at this URL.
 
-*Last updated: [07.04.2025]*
+*Last updated: 07.04.2025*
 
 ## 9. Additional Information
 ### 9.1 Data Storage Details
